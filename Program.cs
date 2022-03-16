@@ -1,21 +1,25 @@
-﻿using System;
-namespace SnakeAndLadderProblem
+﻿susing System;
+
+namespace LogicalPrograms
 {
     class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Snake And Ladder\n");
+            Console.WriteLine("Logical Programs\n");
 
-            //StartGame.StartTheGame();
+            //Fibonacci.DisplayFibonacci();
 
-            //RollingDice.DiceRoll();
+            //PerfectNumber.FindPerfectNumber();
 
-            Options.ChooseOptions();
+            //PrimeNumber.CheckPrimeNumber();
+
+            //ReverseNumber.ReverseTheNumber();
+
+            // CouponNumbers.GenerateCouponNumber();
+
         }
     }
 }
-
-
 
 
